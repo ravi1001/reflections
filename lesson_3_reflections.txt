@@ -33,7 +33,8 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It allows us to know the relative status of the local vs. the remote branch, i.e.
+    if our local branch is ahead, behind, up-to-date or out-of-sync with the remote.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
